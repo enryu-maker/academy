@@ -1,0 +1,785 @@
+{
+    "id": 0,
+    "title": "Full Stack Development",
+    "courses": [
+        {
+            "title": "MERN Stack Development",
+            "duration": "3 Months",
+            "fess": "₹ 30000",
+            "internship": [
+                {
+                    "id":0,
+                    "title": "3 Months",
+                    "details": [
+                        {
+                            "title": "Week 1",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 2",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 3",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 4",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 5",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 6",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 7",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 8",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 9",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 10",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 11",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 12",
+                            "desc": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Frontend Development",
+            "duration": "3 Months",
+            "fess": "₹ 30000",
+            "internship": [
+                {
+                    "id":0,
+                    "title": "3 Months",
+                    "details": [
+                        {
+                            "title": "Week 1",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 2",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 3",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 4",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 5",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 6",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 7",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 8",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 9",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 10",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 11",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 12",
+                            "desc": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Python - Django Stack Development",
+            "duration": "3 Months",
+            "fess": "₹ 30000",
+            "internship": [
+                {
+                    "id":0,
+                    "title": "3 Months",
+                    "details": [
+                        {
+                            "title": "Week 1",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 2",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 3",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 4",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 5",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 6",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 7",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 8",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 9",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 10",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 11",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 12",
+                            "desc": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+},
+{
+    "id": 1,
+    "title": "Python / Data Science / AI & ML",
+    "courses": [
+        {
+            "id":0,
+            "title": "Python Programming",
+            "duration": "3 Months / 4 weeks",
+            "fess": "₹ 30000 /₹ 5000",
+            "internship": [
+                {
+                    "title": "3 Months",
+                    "details": [
+                        {
+                            "title": "Week 1",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 2",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 3",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 4",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 5",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 6",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 7",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 8",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 9",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 10",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 11",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 12",
+                            "desc": ""
+                        },
+                    ]
+                }
+                ,
+                {
+                    "id":1,
+                    "title": "4 Weeks",
+                    "details": [
+                        {
+                            "title": "Week 1",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 2",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 3",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 4",
+                            "desc": ""
+                        },
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Data Science",
+            "duration": "3 Months / 4 weeks",
+            "fess": "₹ 30000 /₹ 5000",
+            "internship": [
+                {
+                    "id":0,
+                    "title": "3 Months",
+                    "details": [
+                        {
+                            "title": "Week 1",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 2",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 3",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 4",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 5",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 6",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 7",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 8",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 9",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 10",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 11",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 12",
+                            "desc": ""
+                        },
+                    ]
+                }
+                ,
+                {
+                    "id":1,
+                    "title": "4 Weeks",
+                    "details": [
+                        {
+                            "title": "Week 1",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 2",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 3",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 4",
+                            "desc": ""
+                        },
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "AI & ML",
+            "duration": "3 Months / 4 weeks",
+            "fess": "₹ 30000 /₹ 5000",
+            "internship": [
+                {
+                    "title": "3 Months",
+                    "details": [
+                        {
+                            "title": "Week 1",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 2",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 3",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 4",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 5",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 6",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 7",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 8",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 9",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 10",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 11",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 12",
+                            "desc": ""
+                        },
+                    ]
+                }
+                ,
+                {
+                    "title": "4 Weeks",
+                    "details": [
+                        {
+                            "title": "Week 1",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 2",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 3",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 4",
+                            "desc": ""
+                        },
+                    ]
+                }
+            ]
+        },
+    ]
+},
+{
+    "id": 2,
+    "title": "Application Development",
+    "courses": [
+        {
+            "title": "React-Native",
+            "duration": "3 Months / 4 weeks",
+            "fess": "₹ 30000 /₹ 5000",
+            "internship": [
+                {
+                    "title": "3 Months",
+                    "details": [
+                        {
+                            "title": "Week 1",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 2",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 3",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 4",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 5",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 6",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 7",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 8",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 9",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 10",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 11",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 12",
+                            "desc": ""
+                        },
+                    ]
+                }
+                ,
+                {
+                    "title": "4 Weeks",
+                    "details": [
+                        {
+                            "title": "Week 1",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 2",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 3",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 4",
+                            "desc": ""
+                        },
+                    ]
+                }
+            ]
+        },
+    ]
+},
+{
+    "id": 3,
+    "title": "Trending Technology",
+    "courses": [
+        {
+            "title": "AWS Devops",
+            "duration": "3 Months / 4 weeks",
+            "fess": "₹ 30000 /₹ 5000",
+            "internship": [
+                {
+                    "title": "3 Months",
+                    "details": [
+                        {
+                            "title": "Week 1",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 2",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 3",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 4",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 5",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 6",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 7",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 8",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 9",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 10",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 11",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 12",
+                            "desc": ""
+                        },
+                    ]
+                }
+                ,
+                {
+                    "title": "4 Weeks",
+                    "details": [
+                        {
+                            "title": "Week 1",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 2",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 3",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 4",
+                            "desc": ""
+                        },
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Digital Marketing",
+            "duration": "3 Months / 4 weeks",
+            "fess": "₹ 30000 /₹ 5000",
+            "internship": [
+                {
+                    "title": "3 Months",
+                    "details": [
+                        {
+                            "title": "Week 1",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 2",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 3",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 4",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 5",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 6",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 7",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 8",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 9",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 10",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 11",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 12",
+                            "desc": ""
+                        },
+                    ]
+                }
+                ,
+                {
+                    "title": "4 Weeks",
+                    "details": [
+                        {
+                            "title": "Week 1",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 2",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 3",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 4",
+                            "desc": ""
+                        },
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "UI / UX",
+            "duration": "3 Months / 4 weeks",
+            "fess": "₹ 30000 /₹ 5000",
+            "internship": [
+                {
+                    "title": "3 Months",
+                    "details": [
+                        {
+                            "title": "Week 1",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 2",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 3",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 4",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 5",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 6",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 7",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 8",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 9",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 10",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 11",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 12",
+                            "desc": ""
+                        },
+                    ]
+                }
+                ,
+                {
+                    "title": "4 Weeks",
+                    "details": [
+                        {
+                            "title": "Week 1",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 2",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 3",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Week 4",
+                            "desc": ""
+                        },
+                    ]
+                }
+            ]
+        }
+    ]
+}

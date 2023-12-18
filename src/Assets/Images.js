@@ -8,4 +8,8 @@ export const IMAGES = {
     abhi: require("./images/abhi.JPG"),
     ved: require("./images/ved.JPG"),
     ceo: require("./images/ceo.JPG"),
+    vikas: require("./images/vikas.jpg"),
+    sakshi: require("./images/sakshi.jpg"),
+    chetna: require("./images/chetna.jpg"),
+
 }

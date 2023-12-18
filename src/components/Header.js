@@ -18,7 +18,8 @@ export default function Header() {
                     zIndex: 100,
                     justifyContent: "center",
                     alignItems: "center",
-                    top: 0
+                    top: 0,
+                    transition: "all 2s ease"
                 }}
             >
                 <div
@@ -39,7 +40,7 @@ export default function Header() {
                     }}>
                         NERDTECH(R) <span style={{
                             fontFamily: "Bold",
-                        }}> ACADEMY </span>
+                        }}> ACADEMY .</span>
                     </p>
                     {
                         mobile ?
@@ -55,7 +56,7 @@ export default function Header() {
                                 display: 'flex',
                                 justifyContent: "space-between",
                                 alignItems: "center",
-                                width: "40%",
+                                width: "50%",
                             }}>
                                 <Link
                                     to={"/"}
@@ -67,7 +68,7 @@ export default function Header() {
                                         letterSpacing: 2,
                                         textDecoration: "none",
                                     }}>
-                                    Home
+                                    Home {path.pathname === "/" ? "." : null}
                                 </Link>
                                 <Link
                                     to={"/courses"}
@@ -80,7 +81,20 @@ export default function Header() {
                                         textDecoration: "none",
 
                                     }}>
-                                    Courses
+                                    Courses {path.pathname === "/courses" ? "." : null}
+                                </Link>
+                                <Link
+                                    to={"/academic"}
+                                    style={{
+                                        fontFamily: "Nothing",
+                                        fontSize: 20,
+                                        color: path.pathname === "/academic" ? "darkgray" : "#ffffff",
+                                        marginBlock: 0,
+                                        letterSpacing: 2,
+                                        textDecoration: "none",
+
+                                    }}>
+                                    Academic {path.pathname === "/academic" ? "." : null}
                                 </Link>
                                 <Link
                                     to={"/about"}
@@ -92,7 +106,7 @@ export default function Header() {
                                         letterSpacing: 2,
                                         textDecoration: "none",
                                     }}>
-                                    About
+                                    About {path.pathname === "/about" ? "." : null}
                                 </Link>
                                 <Link
                                     to={"/contact"}
@@ -104,7 +118,7 @@ export default function Header() {
                                         letterSpacing: 2,
                                         textDecoration: "none",
                                     }}>
-                                    Contact
+                                    Contact {path.pathname === "/contact" ? "." : null}
                                 </Link>
                             </div>
                     }
@@ -117,8 +131,7 @@ export default function Header() {
                         backgroundColor: "white",
                         display: "flex",
                         flexDirection: "column",
-                        paddingInline: 10,
-                        // transform: `translateY(10%)`,
+                        paddingInline: 15,
                         transition: "all 3s ease",
                     }}>
                         <Link
@@ -134,7 +147,7 @@ export default function Header() {
                                 letterSpacing: 2,
                                 textDecoration: "none",
                             }}>
-                            Home
+                            Home {path.pathname === "/" ? "." : null}
                         </Link>
                         <Link
                             onClick={() => {
@@ -149,7 +162,23 @@ export default function Header() {
                                 letterSpacing: 2,
                                 textDecoration: "none",
                             }}>
-                            Courses
+                            Courses {path.pathname === "/courses" ? "." : null}
+                        </Link>
+                        <Link
+                            onClick={() => {
+                                setShow(false)
+                            }}
+                            to={"/academic"}
+                            style={{
+                                fontFamily: "Nothing",
+                                fontSize: 20,
+                                color: path.pathname === "/academic" ? "black" : "darkgray",
+                                marginBlock: 10,
+                                letterSpacing: 2,
+                                textDecoration: "none",
+
+                            }}>
+                            Academic {path.pathname === "/academic" ? "." : null}
                         </Link>
                         <Link
                             onClick={() => {
@@ -164,7 +193,7 @@ export default function Header() {
                                 letterSpacing: 2,
                                 textDecoration: "none",
                             }}>
-                            About
+                            About {path.pathname === "/about" ? "." : null}
                         </Link>
                         <Link
                             onClick={() => {
@@ -179,7 +208,7 @@ export default function Header() {
                                 letterSpacing: 2,
                                 textDecoration: "none",
                             }}>
-                            Contact
+                            Contact {path.pathname === "/contact" ? "." : null}
                         </Link>
                     </div>
                     :

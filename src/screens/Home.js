@@ -63,7 +63,7 @@ export default function Home() {
                 flexDirection: "column",
                 justifyContent: mobile ? "center" : "flex-end",
                 alignItems: "center",
-                height: mobile ? "auto" : "80vh",
+                height: mobile ? "auto" : "75vh",
                 backgroundColor: "black"
             }}>
                 <p style={{

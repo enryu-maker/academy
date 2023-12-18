@@ -5,6 +5,9 @@ import useMediaQuery from './components/useMediaQuery';
 import { FaFacebookSquare, FaLinkedin, FaYoutube } from "react-icons/fa";
 import { FaSquareInstagram } from "react-icons/fa6";
 import { Helmet } from 'react-helmet';
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+import Marquee from "react-fast-marquee";
 export default function App() {
   const mobile = useMediaQuery('(max-width: 768px)');
   React.useEffect(() => {
@@ -27,6 +30,7 @@ export default function App() {
           Unlock your potential with NerdTech Academy. Explore cutting-edge technology courses, personalized learning, and mentorship. Join our vibrant community and shape your future in the world of tech innovation.
         </description>
       </Helmet>
+      
       <Header />
       <Index />
       <p style={{
@@ -103,6 +107,7 @@ export default function App() {
           Made with ❤️ from NERDTECH(R)
         </p>
       </div>
+      <ToastContainer />
     </div>
   )
 }

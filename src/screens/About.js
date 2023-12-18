@@ -20,6 +20,21 @@ export default function About() {
             name: "Abhi",
             image: IMAGES.abhi
         },
+        {
+            id: 4,
+            name: "Vikas",
+            image: IMAGES.vikas
+        },
+        {
+            id: 5,
+            name: "Sakshi",
+            image: IMAGES.sakshi
+        },
+        {
+            id: 6,
+            name: "Chetna",
+            image: IMAGES.chetna
+        },
     ]
     React.useEffect(()=>{
         window.scrollTo({
@@ -138,12 +153,15 @@ export default function About() {
                     />
                     <div style={{
                         display: "flex",
-                        width: mobile ? "100%" : "70%",
-                        justifyContent: "space-evenly"
+                        width: mobile ? "100%" : "55%",
+                        justifyContent: "space-evenly",
+                        flexWrap:"wrap",
                     }}>
                         {
                             data?.map((item) => (
-                                <div>
+                                <div style={{
+                                    marginBlock:10
+                                }}>
                                     <img
                                         alt='team'
                                         style={{
@@ -216,6 +234,8 @@ export default function About() {
                         <span style={{ fontFamily: "Bold" }}>Best Regards,</span>
                         <br />
                         <span style={{ fontFamily: "Nothing" }}>Akif Khan</span>
+                        <br />
+                        <span style={{ fontFamily: "Nothing" }}>C.E.O</span>
                     </p>
                 </div>
             </div>
