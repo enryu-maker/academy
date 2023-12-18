@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3ea1a78.css",
-    "main.js": "/static/js/main.af9ff7ca.js",
+    "main.css": "/static/css/main.77107a73.css",
+    "main.js": "/static/js/main.388b0b35.js",
     "static/js/787.81139660.chunk.js": "/static/js/787.81139660.chunk.js",
     "static/media/Team.JPG": "/static/media/Team.128ca338dbf36b65e9d6.JPG",
     "static/media/abhi.JPG": "/static/media/abhi.e45fbcdcdbe187f39b67.JPG",
@@ -12,18 +12,21 @@
     "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/Header.png": "/static/media/Header.fae31674c76c7a0baf0d.png",
     "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/sakshi.jpg": "/static/media/sakshi.e72c50b8d4ab6b532657.jpg",
     "static/media/Poppins-Black.ttf": "/static/media/Poppins-Black.d8b850b920a5ef49d752.ttf",
     "static/media/nothing-font-5x7.ttf": "/static/media/nothing-font-5x7.793bc0607decb1b3c67d.ttf",
+    "static/media/chetna.jpg": "/static/media/chetna.c3d0773100f2a9d3f331.jpg",
+    "static/media/vikas.jpg": "/static/media/vikas.91a82e2ffa74fe9a264a.jpg",
     "static/media/people.png": "/static/media/people.0206f4c9a612d7bce414.png",
     "static/media/service.png": "/static/media/service.2b0a165b42a11cc4aafa.png",
     "static/media/innovation.png": "/static/media/innovation.0af13fec3dc9fc6f475f.png",
     "index.html": "/index.html",
-    "main.a3ea1a78.css.map": "/static/css/main.a3ea1a78.css.map",
-    "main.af9ff7ca.js.map": "/static/js/main.af9ff7ca.js.map",
+    "main.77107a73.css.map": "/static/css/main.77107a73.css.map",
+    "main.388b0b35.js.map": "/static/js/main.388b0b35.js.map",
     "787.81139660.chunk.js.map": "/static/js/787.81139660.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3ea1a78.css",
-    "static/js/main.af9ff7ca.js"
+    "static/css/main.77107a73.css",
+    "static/js/main.388b0b35.js"
   ]
 }
