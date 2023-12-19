@@ -151,9 +151,8 @@ export default function Info() {
                                     <AccordionDetails style={{ backgroundColor: "#ffffff" }}>
                                         <Typography style={{
                                             color: "black",
-                                            fontSize: 20,
                                             textAlign: 'left',
-                                            fontFamily: "Regular",
+                                            fontFamily: "Nothing",
                                         }}>
                                             {item?.desc}
                                         </Typography>
@@ -184,7 +183,7 @@ export default function Info() {
                             color: "#ffffff",
                             textAlign: "center",
                         }}>
-                            CodeCraft Academy: Building Dreams, One Line at a Time .
+                            NerdTech Academy: Building Dreams, One Line at a Time .
                         </p>
                         <p style={{
                             fontFamily: "Nothing",

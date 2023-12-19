@@ -7,7 +7,6 @@ import { FaSquareInstagram } from "react-icons/fa6";
 import { Helmet } from 'react-helmet';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import Marquee from "react-fast-marquee";
 export default function App() {
   const mobile = useMediaQuery('(max-width: 768px)');
   React.useEffect(() => {

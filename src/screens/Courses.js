@@ -22,51 +22,51 @@ export default function Courses() {
                             details: [
                                 {
                                     title: "Week 1",
-                                    desc: ""
+                                    desc: "Basic HTML"
                                 },
                                 {
                                     title: "Week 2",
-                                    desc: ""
+                                    desc: "Basic CSS"
                                 },
                                 {
                                     title: "Week 3",
-                                    desc: ""
+                                    desc: "Grid, Flex"
                                 },
                                 {
                                     title: "Week 4",
-                                    desc: ""
+                                    desc: "BootStrap"
                                 },
                                 {
                                     title: "Week 5",
-                                    desc: ""
+                                    desc: "Basic JavaScript"
                                 },
                                 {
                                     title: "Week 6",
-                                    desc: ""
+                                    desc: "Advance JavaScript"
                                 },
                                 {
                                     title: "Week 7",
-                                    desc: ""
+                                    desc: "Basic React"
                                 },
                                 {
                                     title: "Week 8",
-                                    desc: ""
+                                    desc: "React Router"
                                 },
                                 {
                                     title: "Week 9",
-                                    desc: ""
+                                    desc: "MongoDB"
                                 },
                                 {
                                     title: "Week 10",
-                                    desc: ""
+                                    desc: "Node JS ,Express JS"
                                 },
                                 {
                                     title: "Week 11",
-                                    desc: ""
+                                    desc: "Express JS,Project"
                                 },
                                 {
                                     title: "Week 12",
-                                    desc: ""
+                                    desc: "Project"
                                 },
                             ]
                         }
@@ -83,51 +83,51 @@ export default function Courses() {
                             details: [
                                 {
                                     title: "Week 1",
-                                    desc: ""
+                                    desc: "HTML"
                                 },
                                 {
                                     title: "Week 2",
-                                    desc: ""
+                                    desc: "HTML Table and Forms"
                                 },
                                 {
                                     title: "Week 3",
-                                    desc: ""
+                                    desc: "Basic CSS "
                                 },
                                 {
                                     title: "Week 4",
-                                    desc: ""
+                                    desc: "CSS Positions Display"
                                 },
                                 {
                                     title: "Week 5",
-                                    desc: ""
+                                    desc: "Grid and Flex "
                                 },
                                 {
                                     title: "Week 6",
-                                    desc: ""
+                                    desc: "BootStarp"
                                 },
                                 {
                                     title: "Week 7",
-                                    desc: ""
+                                    desc: "Basic JavaScript"
                                 },
                                 {
                                     title: "Week 8",
-                                    desc: ""
+                                    desc: "JavaScript Events"
                                 },
                                 {
                                     title: "Week 9",
-                                    desc: ""
+                                    desc: "Basic React"
                                 },
                                 {
                                     title: "Week 10",
-                                    desc: ""
+                                    desc: "React Hooks"
                                 },
                                 {
                                     title: "Week 11",
-                                    desc: ""
+                                    desc: "React Router"
                                 },
                                 {
                                     title: "Week 12",
-                                    desc: ""
+                                    desc: "Project"
                                 },
                             ]
                         }
@@ -144,51 +144,51 @@ export default function Courses() {
                             details: [
                                 {
                                     title: "Week 1",
-                                    desc: ""
+                                    desc: "Introduction to Python"
                                 },
                                 {
                                     title: "Week 2",
-                                    desc: ""
+                                    desc: "Python Basics"
                                 },
                                 {
                                     title: "Week 3",
-                                    desc: ""
+                                    desc: "Introduction to OOP"
                                 },
                                 {
                                     title: "Week 4",
-                                    desc: ""
+                                    desc: "File Handling"
                                 },
                                 {
                                     title: "Week 5",
-                                    desc: ""
+                                    desc: "Exception Handling"
                                 },
                                 {
                                     title: "Week 6",
-                                    desc: ""
+                                    desc: "Advanced Topics"
                                 },
                                 {
                                     title: "Week 7",
-                                    desc: ""
+                                    desc: "Getting Started with Django"
                                 },
                                 {
                                     title: "Week 8",
-                                    desc: ""
+                                    desc: "Django Models and Admin"
                                 },
                                 {
                                     title: "Week 9",
-                                    desc: ""
+                                    desc: "Django Views"
                                 },
                                 {
                                     title: "Week 10",
-                                    desc: ""
+                                    desc: "Django Templates, Django Forms"
                                 },
                                 {
                                     title: "Week 11",
-                                    desc: ""
+                                    desc: "Django ORM and Querysets, Django Authentication Authorization"
                                 },
                                 {
                                     title: "Week 12",
-                                    desc: ""
+                                    desc: "Project"
                                 },
                             ]
                         }
@@ -266,19 +266,19 @@ export default function Courses() {
                             details: [
                                 {
                                     title: "Week 1",
-                                    desc: ""
+                                    desc: "Introduction to Python"
                                 },
                                 {
                                     title: "Week 2",
-                                    desc: ""
+                                    desc: "Data Structures in Python"
                                 },
                                 {
                                     title: "Week 3",
-                                    desc: ""
+                                    desc: "Object-Oriented Programming (OOP) in Python"
                                 },
                                 {
                                     title: "Week 4",
-                                    desc: ""
+                                    desc: "Advanced Topics and Project"
                                 },
                             ]
                         }
@@ -350,19 +350,19 @@ export default function Courses() {
                             details: [
                                 {
                                     title: "Week 1",
-                                    desc: ""
+                                    desc: "Introduction to Data Science and Python Basics"
                                 },
                                 {
                                     title: "Week 2",
-                                    desc: ""
+                                    desc: "Data Cleaning and Preprocessing"
                                 },
                                 {
                                     title: "Week 3",
-                                    desc: ""
+                                    desc: "Introduction to Machine Learning"
                                 },
                                 {
                                     title: "Week 4",
-                                    desc: ""
+                                    desc: "Capstone Project and Review"
                                 },
                             ]
                         }
@@ -432,19 +432,19 @@ export default function Courses() {
                             details: [
                                 {
                                     title: "Week 1",
-                                    desc: ""
+                                    desc: "Introduction to AI and Python Basics"
                                 },
                                 {
                                     title: "Week 2",
-                                    desc: ""
+                                    desc: "Machine Learning Fundamentals"
                                 },
                                 {
                                     title: "Week 3",
-                                    desc: ""
+                                    desc: "Machine Learning Fundamentals"
                                 },
                                 {
                                     title: "Week 4",
-                                    desc: ""
+                                    desc: "Capstone Project and Review"
                                 },
                             ]
                         }
@@ -520,19 +520,19 @@ export default function Courses() {
                             details: [
                                 {
                                     title: "Week 1",
-                                    desc: ""
+                                    desc: "Introduction to React Native and Setting Up the Environment"
                                 },
                                 {
                                     title: "Week 2",
-                                    desc: ""
+                                    desc: "React Native Components and Navigation"
                                 },
                                 {
                                     title: "Week 3",
-                                    desc: ""
+                                    desc: "State Management and API Integration"
                                 },
                                 {
                                     title: "Week 4",
-                                    desc: ""
+                                    desc: "Building a Functional App and Deployment"
                                 },
                             ]
                         }
@@ -608,19 +608,19 @@ export default function Courses() {
                             details: [
                                 {
                                     title: "Week 1",
-                                    desc: ""
+                                    desc: "Introduction to AWS and DevOps Fundamentals"
                                 },
                                 {
                                     title: "Week 2",
-                                    desc: ""
+                                    desc: "Infrastructure as Code (IaC) with AWS CloudFormation"
                                 },
                                 {
                                     title: "Week 3",
-                                    desc: ""
+                                    desc: "CI/CD with AWS CodePipeline and CodeBuild"
                                 },
                                 {
                                     title: "Week 4",
-                                    desc: ""
+                                    desc: "Monitoring and Logging with AWS CloudWatch"
                                 },
                             ]
                         }
@@ -690,19 +690,19 @@ export default function Courses() {
                             details: [
                                 {
                                     title: "Week 1",
-                                    desc: ""
+                                    desc: "Introduction to Digital Marketing"
                                 },
                                 {
                                     title: "Week 2",
-                                    desc: ""
+                                    desc: "Website and Content Marketing"
                                 },
                                 {
                                     title: "Week 3",
-                                    desc: ""
+                                    desc: "Social Media Marketing and Paid Advertising"
                                 },
                                 {
                                     title: "Week 4",
-                                    desc: ""
+                                    desc: "Analytics, Email Marketing, and Final Project"
                                 },
                             ]
                         }
@@ -772,19 +772,19 @@ export default function Courses() {
                             details: [
                                 {
                                     title: "Week 1",
-                                    desc: ""
+                                    desc: "Introduction to UI/UX Design"
                                 },
                                 {
                                     title: "Week 2",
-                                    desc: ""
+                                    desc: "UI Design Basics"
                                 },
                                 {
                                     title: "Week 3",
-                                    desc: ""
+                                    desc: "UX Design Principles"
                                 },
                                 {
                                     title: "Week 4",
-                                    desc: ""
+                                    desc: "Final Projects and Review"
                                 },
                             ]
                         }
